@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`images controller 1`] = `
+Array [
+  Object {
+    "large": "http://localhost:3000/images/b737_3_large.jpg",
+    "medium": "http://localhost:3000/images/b737_3_medium.jpg",
+    "name": "b737_3",
+    "small": "http://localhost:3000/images/b737_3_small.jpg",
+  },
+  Object {
+    "large": "http://localhost:3000/images/b737_5_large.jpg",
+    "medium": "http://localhost:3000/images/b737_5_medium.jpg",
+    "name": "b737_5",
+    "small": "http://localhost:3000/images/b737_5_small.jpg",
+  },
+  Object {
+    "large": "http://localhost:3000/images/b777_5_large.jpg",
+    "medium": "http://localhost:3000/images/b777_5_medium.jpg",
+    "name": "b777_5",
+    "small": "http://localhost:3000/images/b777_5_small.jpg",
+  },
+]
+`;
